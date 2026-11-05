@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-
+// Проверка пустого запроса
 class Program
 {
     static void Main()
